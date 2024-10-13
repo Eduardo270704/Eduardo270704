@@ -1,4 +1,5 @@
 ### Hello World! 🖖
+
 # Eduardo Moraes here:
 
 I'm a Multiplatform Software Development student at Fatec Jacareí, currently in the 4th semester, with an expected graduation in December 2025. Throughout my studies, I have been deepening my knowledge in software development across various platforms, focusing on creating innovative and efficient technological solutions. Additionally, I am continuously improving my practical skills through both academic and personal projects.
@@ -13,7 +14,7 @@ I'm an active person who puts effort into everything I do, always eager to learn
 
 ## GitHub Stats and Tools:
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo270704&layout=compact&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=00000000&title_color=4debf7&text_color=ffffff&border_radius=5&border_color=b7bcc8&icon_color=fa00b9" />
