@@ -20,7 +20,7 @@ I'm an active person who puts effort into everything I do, always eager to learn
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo270704&layout=compact&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=00000000&title_color=4debf7&text_color=ffffff&border_radius=5&border_color=b7bcc8&icon_color=fa00b9" />
     </td>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eduardo270704&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=00000000&title_color=4debf7&text_color=ffffff&border_radius=5&border_color=b7bcc8&icon_color=fa00b9" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eduardo270704&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=00000000&7&text_color=ffffff&border_radius=5&border_color=b7bcc8" />
     </td>
   </tr>
 </table>
